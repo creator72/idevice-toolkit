@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=iDevice Toolkit
+GenericName=iOS Device Manager
+Comment=Flash, back up and manage iPhones and iPads (GUI for idevicerestore/libimobiledevice)
+Exec=idevice-toolkit
+Icon=idevice-toolkit
+Terminal=false
+Categories=Utility;System;
+Keywords=iphone;ipad;ios;restore;flash;ipsw;dfu;recovery;backup;
